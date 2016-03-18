@@ -1,0 +1,15 @@
+{
+  "name": "brolag",
+  "version": "1.0.0",
+  "description": "Brolag - Web Developer",
+  "author": "Alfredo Bonilla",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
