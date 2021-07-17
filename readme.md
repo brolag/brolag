@@ -10,8 +10,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play de bass guitar 🤘🏽
 
-[https://www.alfredobonilla.com](https://www.alfredobonilla.com)
-
 
 # Install
 
