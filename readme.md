@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Next.JS, TailwindCSS<br>👯 I’m looking to collaborate on DeFi projects <br>🌱 I’m currently learning Product Design<br>💬 Ask me about web development<br>⚡ Fun fact: I love to play the bass guitar!
+🔭 I’m currently working on React, Next.JS, TailwindCSS<br>👯 I’m looking to collaborate on DeFi projects <br>🌱 I’m currently learning about Product Design<br>💬 Ask me about web development<br>⚡ Fun fact: I love to play the bass guitar!
 
 
 ## 🌐 Socials:
