@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on checkmyticket.xyz (NFT Ticketing Platform)<br>👯 I’m looking to collaborate on Web3 projects<br>🌱 I’m currently learning about ZK Proofs<br>💬 Ask me about web3 development<br>⚡ Fun fact: I love to play the bass guitar!
+🔭 I’m currently working on [checkmyticket.xyz](https://checkmyticket.xyz/) (NFT Ticketing Platform)<br>👯 I’m looking to collaborate on Web3 projects<br>🌱 I’m currently learning about ZK Proofs<br>💬 Ask me about web3 development<br>⚡ Fun fact: I love to play the bass guitar!
 
 
 ## 🌐 Socials:
