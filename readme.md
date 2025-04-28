@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building [cofiblocks.com](https://cofiblocks.com/) (A Tokenized Speciality Coffee Marketplace)<br>👯 I’m looking to collaborate on Web3 projects<br>🌱 I’m currently learning about AI Agents<br>💬 Ask me about web3 development<br>⚡ Fun fact: I love to play the bass guitar!
+🔭 Head Of Ecosystem at [Dojo Coding](https://dojocoding.io/) <br>👯 I’m looking to collaborate on Web3 projects<br>🌱 I’m currently learning about AI Agents<br>💬 Ask me about AI and Web3 development<br>⚡ Fun fact: I love to play the bass guitar!
 
 
 ## 🌐 Socials:
